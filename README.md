@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://github.com/swuhyeon/swuhyeon/blob/main/README.md
 <!--
 **swuhyeon/swuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 네비게이션 -->
+![header](https://capsule-render.vercel.app/api?type=venom&text=SwuHyeon's%20GitHub&fontSize=40)
