@@ -51,14 +51,3 @@
     <a href="https://github.com/anuraghazra/convoychat"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=swuhyeon&layout=compact&langs_count=8&card_width=320"> </a>    
   </div>
 </div>
-<br><br>
-
-<!-- 백준 티어 -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 BOJ </h2>
-  <br>
-  <div align= "center">
-    
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shsh010914)](https://solved.ac/shsh010914)
-  </div>
-</div>
