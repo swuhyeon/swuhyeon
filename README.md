@@ -10,13 +10,6 @@
 </div>
 <br><br>
 
-<!-- 자기소개 -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2>
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 보안 솔루션 개발자를 꿈꾸고 있는 학부생입니다. </div> 
-</div>
-<br><br>
-
 <!-- 기술 스택 -->
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
