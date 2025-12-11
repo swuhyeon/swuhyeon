@@ -33,14 +33,3 @@
     <a href="https://velog.io/@shsh010914/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@shsh010914/posts"> </a>
   </div>
 </div>
-<br><br>
-
-<!-- 깃허브 통계 -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2>
-  <br>
-  <div align= "center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 src="https://github-readme-stats.vercel.app/api?username=swuhyeon"> </a>
-    <a href="https://github.com/anuraghazra/convoychat"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=swuhyeon&layout=compact&langs_count=8&card_width=320"> </a>    
-  </div>
-</div>
