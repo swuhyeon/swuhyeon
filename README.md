@@ -19,6 +19,7 @@
 ## 🛠️ tech stacks
 <div align= "left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 </div>
 <div align= "left">
   <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=Flask&logoColor=white">
